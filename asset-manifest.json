@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-lazy-loading/static/css/main.e6c13ad2.css",
+    "main.js": "/react-lazy-loading/static/js/main.27337ea0.js",
+    "static/js/596.a996dbc3.chunk.js": "/react-lazy-loading/static/js/596.a996dbc3.chunk.js",
+    "static/js/192.ce96ba24.chunk.js": "/react-lazy-loading/static/js/192.ce96ba24.chunk.js",
+    "static/js/592.6e8c9dbb.chunk.js": "/react-lazy-loading/static/js/592.6e8c9dbb.chunk.js",
+    "index.html": "/react-lazy-loading/index.html",
+    "main.e6c13ad2.css.map": "/react-lazy-loading/static/css/main.e6c13ad2.css.map",
+    "main.27337ea0.js.map": "/react-lazy-loading/static/js/main.27337ea0.js.map",
+    "596.a996dbc3.chunk.js.map": "/react-lazy-loading/static/js/596.a996dbc3.chunk.js.map",
+    "192.ce96ba24.chunk.js.map": "/react-lazy-loading/static/js/192.ce96ba24.chunk.js.map",
+    "592.6e8c9dbb.chunk.js.map": "/react-lazy-loading/static/js/592.6e8c9dbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.27337ea0.js"
+  ]
+}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklazy_loading=self.webpackChunklazy_loading||[]).push([[596],{596:(e,l,n)=>{n.r(l),n.d(l,{default:()=>a});n(60);var s=n(496);const a=()=>(0,s.jsx)("div",{children:(0,s.jsx)("h1",{children:"Home Components"})})}}]);
+//# sourceMappingURL=596.a996dbc3.chunk.js.map
